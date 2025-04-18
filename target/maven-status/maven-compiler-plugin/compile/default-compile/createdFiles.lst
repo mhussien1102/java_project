@@ -1,0 +1,4 @@
+com\mycompany\parallelcomputing\ParallelComputing.class
+shahd\Main.class
+shahd\ParallelMaximizer.class
+shahd\ParallelMaximizerWorker.class
